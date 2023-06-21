@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @compaismaa
-- 👀 I’m interested in web 3
-- 🌱 I’m currently learning everyhting I can
+- 👀 I’m interested in Web 3
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on projects to get more hands on experience
 - 📫 How to reach me ...
 
